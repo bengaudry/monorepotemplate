@@ -14,9 +14,7 @@ cd monorepotemplate
 Install all the dependencies :
 
 ```sh
-pnpm --filter front i
-pnpm --filter functions i
-pnpm --filter ui i
+pnpm install
 ```
 
 And begin working !
